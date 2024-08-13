@@ -1,0 +1,7 @@
+cd path/to/your/local/folder
+git clone https://github.com/username/repository.git
+cd repository
+cp "C:/path/to/New Internal K8s cert renewal  2.pdf" "C:/path/to/cloned/repository/"
+git add "New Internal K8s cert renewal  2.pdf"
+git commit -m "Add new internal K8s cert renewal document"
+git push origin main
